@@ -1,4 +1,10 @@
 
+
+#####commit de prueba ####
+# no esta corregido
+
+
+
 ##ESTRUCTURA##
 niveles_prov <- unique(bd$prov)
 
